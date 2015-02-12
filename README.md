@@ -1,5 +1,5 @@
 # default-project
-A quick starter setup that I use to kick off a simple web app or web site. The basics only- does not include any front end frameworks or much in the way of boilerplate.
+A quick starter setup that I use to kick off a simple jquery-based web app or site. The basics only- it does not include any front end frameworks or much in the way of boilerplate.
 
 # Gruntfile.js
 The included Gruntfile has the following tasks registered:
