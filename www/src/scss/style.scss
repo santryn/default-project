@@ -1,0 +1,11 @@
+@charset "UTF-8";
+@import 'vars';
+@import 'mixins';
+
+
+/* Basic */
+
+html, body{
+    background: $white;
+    color: $black;
+}
